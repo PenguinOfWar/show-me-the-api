@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. Download zip file
+1. Download [zip file](https://github.com/PenguinOfWar/show-me-the-api/raw/master/package/Show%20me%20the%20API-0.0.2.zip)
 2. Extract into a directory
 3. Open Chrome and enter `chrome://extensions/` in the address bar
 4. Check `Developer mode`
