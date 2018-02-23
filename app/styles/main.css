@@ -1,0 +1,32 @@
+body {
+  padding: 20px;
+  text-align: center;
+  width: 400px;
+}
+
+#hidden {
+  display: none;
+}
+
+h1 {
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+a {
+  color: black;
+  transition: all .5s ease;
+}
+
+#link {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: inline-block;
+  outline: none;
+  padding: 10px;
+}
+
+#link:hover {
+  background-color: #ccc;
+}
