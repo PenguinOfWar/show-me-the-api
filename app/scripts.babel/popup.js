@@ -31,11 +31,10 @@ chrome.tabs.query({ 'active': true, 'lastFocusedWindow': true }, function (tabs)
 
   console.log(localeTest);
 
-  var locale = '';
+  var locale = 'xx_XX';
 
   if (localeTest) {
-    locale = chunks.shift();
-    console.log(locale);
+    chunks.shift();
   }
 
   /* add api/dynamicmodules to the start of the chunks array */
