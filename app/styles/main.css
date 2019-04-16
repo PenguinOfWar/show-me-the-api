@@ -18,7 +18,8 @@ a {
   transition: all .5s ease;
 }
 
-#link {
+#link,
+#linkLocalised {
   background-color: white;
   border: 1px solid #ccc;
   border-radius: 5px;
@@ -27,6 +28,7 @@ a {
   padding: 10px;
 }
 
-#link:hover {
+#link:hover,
+#linkLocalised:hover {
   background-color: #ccc;
 }
